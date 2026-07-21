@@ -1,0 +1,38 @@
+body{
+font-family: 'Poppins', sans-serif;
+}
+.tukhor{
+    padding: 100px 0;
+}
+.tukhor1{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 1px solid black;
+    box- 
+}
+.service{
+    width: 100%;
+    min-height: 80vh;
+}
+.main{
+    min-height:60vh;
+}
+.pic img{
+    width:100%;
+    height: 200px;
+    border: 1px solid white;
+}
+.main1{
+    width: 100%;
+    min-height:60vh;
+}
+.icon1{
+    font-size: 9rem;
+}
+.ok p{
+    font-size: 9px;
+}
+.amar{
+    padding-top: 60px;
+}
