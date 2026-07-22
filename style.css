@@ -36,6 +36,9 @@ font-family: 'Poppins', sans-serif;
 .amar{
     padding-top: 60px;
 }
+.box{
+    transition: 0.3s;
+}
 .box:hover{
-    transform:translate(-7);
+    transform:translateY(-7);
 }
